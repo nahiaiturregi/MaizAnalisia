@@ -33,7 +33,6 @@ def hiztegia_aldatu():
                 if value == auk2:
                     kod[key] = auk1
                     break
-        
         kod[auk1] = auk2
 
 def hiztegia_eguneratu():
